@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="wF">
+        <item>Hoy - Soleado - 19-30</item>
+        <item>Mañana - Soleado - 18-35</item>
+        <item>Martes - Nublado - 19-29</item>
+        <item>Miercoles - Lluvia de meteoritos - 21-30</item>
+        <item>Jueves - soleado - 19-30</item>
+        <item>Viernes - soleado - 19-30</item>
+        <item>Sábado - soleado - 19-30</item>
+    </string-array>
+</resources>
